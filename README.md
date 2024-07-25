@@ -1,4 +1,4 @@
-# Ingress NGINX Controller -- AP*4G*H*raHGNAIWRHGIHWRGHWIH$GIEHRGIJ~~!!!!!!
+# Ingress NGINX Controller -- bleeblorp
 
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5691/badge)](https://bestpractices.coreinfrastructure.org/projects/5691)
 [![Go Report Card](https://goreportcard.com/badge/github.com/kubernetes/ingress-nginx)](https://goreportcard.com/report/github.com/kubernetes/ingress-nginx)
